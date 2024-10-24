@@ -23,7 +23,24 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (1).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (2).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (3).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (4).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (5).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (6).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (7).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (8).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (9).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (10).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (11).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (12).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (13).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (14).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (15).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (16).png"
+"C:\Users\admin\Documents\Dataset\Titanic set data science\Screenshot (17).png"
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+ Thus Exploratory Data Analysis is performed on the givrn data set.
+ 
